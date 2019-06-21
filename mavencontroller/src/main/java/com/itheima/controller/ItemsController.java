@@ -20,6 +20,8 @@ public class ItemsController {
     }
 
     public static void main(String[] args) {
+//     有点意思啊
+        int 啊= 2;
 
     }
 }
